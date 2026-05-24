@@ -134,22 +134,6 @@ Drop in any PDF, ask anything. RAG pipeline over a vector DB — source-grounded
 
 ---
 
-## `$ htop  # what's actually running`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  PID   PROCESS                          STATUS      CPU   MEM   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  001   SIA — Agentic Learning Platform  BUILDING    ████  high  ║
-║  002   Portfolio v2 — React + Vite      DEPLOYED    ░░░░  low   ║
-║  003   Deep Learning coursework         STUDYING    ██░░  med   ║
-║  004   Placement prep (DSA + Design)    ACTIVE      ███░  med   ║
-║  005   JARVIS — local AI assistant      SLEEPING    ░░░░  low   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
 ## `$ ping dharanidharan`
 
 <div align="center">
