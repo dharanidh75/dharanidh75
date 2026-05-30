@@ -1,156 +1,227 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=220&section=header&text=Dharanidharan%20J&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=60&descSize=16&descColor=c0853a&animation=fadeIn&stroke=1a3a5c&strokeWidth=1" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dharanidharan+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+ML+Engineer+%7C+Agentic+Systems+Builder+%7C+RAG+Architect&descAlignY=62&descSize=16)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=1A3A5C&center=true&vCenter=true&width=700&lines=I+don%27t+just+use+AI+%E2%80%94+I+architect+it.;LangGraph+%7C+RAG+%7C+Multi-Agent+Orchestration;FastAPI+%2B+React+%7C+Production-Ready+Systems;Currently+building%3A+SIA+%E2%80%94+an+AI+that+teaches+itself.;Open+to+internships+%C2%B7+Summer+2026+%F0%9F%9A%80)](https://github.com/dharanidh75)
+</div>
 
-<br/>
+<div align="center">
 
-![Status](https://img.shields.io/badge/%E2%9C%85%20Status-Open%20to%20Work-4ade80?style=for-the-badge&labelColor=1a3a5c)
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Location-Coimbatore%2C%20India-c0853a?style=for-the-badge&labelColor=1a3a5c)
-![Degree](https://img.shields.io/badge/%F0%9F%8E%93%20B.Tech%20CSE-Sri%20Shakthi%20IET%20%C2%B7%202028-white?style=for-the-badge&labelColor=1a3a5c)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+that+actually+remembers+%F0%9F%A7%A0;LangGraph+%7C+RAG+%7C+Multi-Agent+Systems;99.6%25+memory+footprint+reduction+with+FileRAG;From+Coimbatore+to+the+frontier+of+AI+%F0%9F%9A%80)](https://github.com/dharanidh75)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dharanidh75&style=flat-square&color=70a5fd&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/dharanidh75?style=flat-square&color=bf91f3&label=Followers&logo=github&logoColor=white)](https://github.com/dharanidh75?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharanidharan-j-7757a9321/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dharanidharanj.me-38bdae?style=flat-square&logo=firefox&logoColor=white)](https://dharanidharanj.me)
+[![Email](https://img.shields.io/badge/Email-dharanidh777%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dharanidh777@gmail.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🧬 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Dharanidharan:
-    name       = "Dharanidharan J  (JD)"
-    location   = "Coimbatore, India 🇮🇳"
-    education  = "B.Tech CSE · Sri Shakthi IET · 2028 · CGPA 7.8"
 
-    focus      = [
-        "Full-Stack Development  (React + FastAPI)",
-        "Agentic AI  (LangGraph, multi-agent orchestration)",
-        "RAG Pipelines  (ChromaDB, vector search)",
-        "LLM Integration  (Groq, NVIDIA NIM)",
+    name        = "Dharanidharan J"
+    alias       = "dharanidh75"
+    location    = "Coimbatore, Tamil Nadu 🇮🇳  (Open to Relocation)"
+    degree      = "B.Tech — AI & ML @ Sri Shakthi Institute, 2024-2028"
+    cgpa        = 7.8
+
+    stack = [
+        "Python", "JavaScript", "SQL",
+        "FastAPI", "React.js", "LangChain", "LangGraph",
+        "Docker", "Redis", "MySQL", "ChromaDB",
     ]
 
-    currently_building = "SIA — Self-Improving Agentic Learning Platform"
-    availability       = "Internships · Summer 2026"
-    contact            = "dharanidh777@gmail.com"
-
-    fun_facts  = [
-        "My dev machine is named JARVIS",
-        "I run Arch-based Linux because I enjoy the chaos",
-        "I build AI agents that make me look more productive than I am",
+    ai_specialties = [
+        "Retrieval-Augmented Generation (RAG)",
+        "Multi-Agent & Agentic Systems",
+        "Hybrid BM25 + Semantic Search",
+        "Vector Databases & Memory Architectures",
+        "Large Language Models (LLMs)",
+        "NVIDIA NIM · SSE Streaming",
     ]
+
+    currently_learning = [
+        "Advanced LangGraph orchestration patterns",
+        "Production-grade MLOps pipelines",
+        "Distributed system design for AI backends",
+    ]
+
+    fun_fact = "Built a memory layer (FileRAG) that hit 100% retrieval \
+accuracy at 500 turns — where Redis & Dict baselines collapsed to 0%."
+
+    def motto(self):
+        return "Engineer memory. Eliminate amnesia. Build AI that endures."
 ```
+
+<br clear="right"/>
 
 ---
 
-## `$ ls -la ./stack`
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6933FF?style=flat-square&logo=databricks&logoColor=white)
+
+**AI / ML Engineering**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented+Generation-70A5FD?style=flat-square&logo=semanticscholar&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Large+Language+Models-BF91F3?style=flat-square&logo=openai&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector+Databases-38BDAE?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logo=databricks&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic+AI-Multi--Agent+Systems-FF6B6B?style=flat-square&logo=probot&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20(Pop!__OS)-48B9C7?style=flat-square&logo=popos&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-Streaming-38BDAE?style=flat-square&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST+APIs-FF6B35?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a3a5c?style=for-the-badge&logo=javascript&logoColor=c0853a)
-![SQL](https://img.shields.io/badge/SQL-1a3a5c?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React.js-1a3a5c?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a3a5c?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-1a3a5c?style=for-the-badge&logo=vite&logoColor=c0853a)
-
-**AI / ML**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1a3a5c?style=for-the-badge&logo=chainlink&logoColor=c0853a)
-![LangChain](https://img.shields.io/badge/LangChain-1a3a5c?style=for-the-badge&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a3a5c?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-1a3a5c?style=for-the-badge&logo=semanticweb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-1a3a5c?style=for-the-badge&logo=lightning&logoColor=c0853a)
-![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-1a3a5c?style=for-the-badge&logo=nvidia&logoColor=76b900)
-
-**Infra & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-1a3a5c?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1a3a5c?style=for-the-badge&logo=redis&logoColor=FF4438)
-![Docker](https://img.shields.io/badge/Docker-1a3a5c?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1a3a5c?style=for-the-badge&logo=git&logoColor=c0853a)
-![Linux](https://img.shields.io/badge/Linux%20%28Arch%29-1a3a5c?style=for-the-badge&logo=archlinux&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-1a3a5c?style=for-the-badge&logo=vercel&logoColor=white)
+<a href="https://github.com/dharanidh75">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharanidh75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/dharanidh75">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanidh75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
 
 </div>
 
 ---
 
-## `$ cat ./projects/index.md`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [SIA — Self-Improving Agentic Learning Platform](https://github.com/dharanidh75)
-> *2026 · Multi-Agent AI · MVP in progress*
-
-AI platform where **three specialized agents** collaborate as your personal curriculum designer, tutor, and live code demonstrator — all wired through a LangGraph state machine.
-
-- 🔍 **Researcher** — decomposes your goal into a persistent milestone roadmap
-- 💬 **Tutor** — context-aware chatbot, streamed via SSE, scoped to active checkpoint
-- ⚙️ **Developer** — generates live React/HTML demos, sandboxed in-browser
-
-`LangGraph` `NVIDIA NIM` `FastAPI` `React + Vite` `ChromaDB` `Redis` `MySQL` `SSE`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [ResHub — AI Research Workspace](https://github.com/dharanidh75/RESHUB)
-> *2025 · Agentic Full-Stack*
-
-Every research project gets its own isolated AI environment — a RAG chatbot, vector DB, task board, and notes, all wired together and context-aware.
-
-`LangGraph` `RAG` `ChromaDB` `FastAPI` `React.js` `Agentic AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👥 [TeamCodeX — Collaborative Dev Platform](https://github.com/dharanidh75)
-> *2024 · Full-Stack*
-
-Team task management with TL-controlled assignment flows, interactive contribution graphs, and role-based access control.
-
-`React.js` `FastAPI` `MySQL` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [PDF RAG Assistant](https://github.com/dharanidh75/RAG-PDF-ASSISTANT-1-)
-> *2024 · AI / RAG*
-
-Drop in any PDF, ask anything. RAG pipeline over a vector DB — source-grounded, hallucination-resistant responses.
-
-`RAG` `Vector DB` `Python` `LLM` `FastAPI`
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ ping dharanidharan`
+## 🔥 Streak Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/dharanidh777%40gmail.com-1a3a5c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharanidh777@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Dharanidharan%20J-1a3a5c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanidharan-j-7757a9321)
-[![GitHub](https://img.shields.io/badge/dharanidh75-1a3a5c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dharanidh75)
-
-<br/>
-
-```
-> "I don't just integrate AI into apps.
-   I design the architecture that makes agents think."
-```
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=120&section=footer" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=dharanidh75&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/dharanidh75)
 
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Dharanidharan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharanidh75&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/dharanidh75)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dharanidh75&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/dharanidh75)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | ⚙️ Stack | ✨ Highlights |
+|:---|:---|:---|
+| [**FileRAG**](https://dharanidharanj.me) — Novel AI Memory Architecture | `Python` `BM25` `Semantic Search` `Vector DB` `Linux` | **100% retrieval accuracy** at 500 turns vs. 0% for Dict & Redis baselines · **99.6% memory footprint reduction** (18 KB vs 4,338 KB at 1K turns) · 3-layer reliability: topic-drift distillation, 92% chunk deduplication, SIGINT handlers |
+| [**SIA**](https://github.com/dharanidh75/SIA) — Adaptive Learning Platform | `LangGraph` `FastAPI` `React` `NVIDIA NIM` `ChromaDB` `Redis` `MySQL` `SSE` | 3-agent LangGraph state machine (Researcher, Tutor, Developer) with independent token budgets · NVIDIA NIM for optimized inference · Real-time SSE streaming & contextual live industry news feed |
+| [**ResHub**](https://reshub-seven.vercel.app) — Agentic Research Workspace | `FastAPI` `React 18` `LangGraph` `LangChain` `MySQL` `SQLAlchemy` `Docker` `JWT` | 5-agent orchestration system with dual-path intent classifier (keyword fast-path + LLM fallback) · Per-folder isolated vector stores for precision retrieval · 10+ REST endpoints, JWT auth, Docker Compose, production-deployed |
+| [**TeamCodeX**](https://github.com/dharanidh75) — Collaborative Dev Platform | `React.js` `FastAPI` `MySQL` `Python` | Role-based access control + TL-managed task assignment · Interactive graph analytics dashboards for contribution tracking · Project-scoped task boards & roadmap management |
+| [**Jarvix**](https://github.com/dharanidh75/voice_assistant) — Voice AI Assistant | `Python` `Llama 3.2` `TTS/STT` `FileRAG` `Linux` | Fully local voice assistant on Pop!_OS · Persistent cross-session memory via FileRAG · Zero LLM session amnesia |
+| [**RAG PDF Assistant**](https://github.com/dharanidh75/RAG-PDF-ASSISTANT-1-) — PDF Q&A | `LangChain` `Vector DB` `FastAPI` `React` | Multi-PDF incremental indexing · Full-stack chat UI · LangChain-powered retrieval pipeline |
+
+</div>
+
+---
+
+## 🏅 Achievements & Publications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|:---:|:---|:---|
+| 📝 | **Published Engineering Research** | "The .txt File as the Soul of a Personal AI — FileRAG Memory Architecture" · [dharanidharanj.me](https://dharanidharanj.me) |
+| 🔬 | **Novel Benchmark Study** | Benchmarked FileRAG vs. Dict, Redis, Vector DB across 20 → 100K conversation turns on retrieval accuracy, storage efficiency, persistence & offline capability |
+| 🧠 | **100% Retrieval Accuracy** | Achieved 100% at 500 turns — all baselines (Dict, Redis) collapsed to **0%** — via hybrid BM25 + semantic retrieval on distilled soul files |
+| 💾 | **99.6% Memory Footprint Reduction** | FileRAG soul file: **18 KB** vs raw Vector DB: **4,338 KB** at 1,000 turns; projected **60% total storage reduction** at 100K turns (29.8 MB vs 76.2 MB) |
+| 🤖 | **Production Multi-Agent System** | Architected 5-agent LangGraph system in ResHub with dual-path intent classifier deployed live at [reshub-seven.vercel.app](https://reshub-seven.vercel.app) |
+| 🎙️ | **Fully Local Voice AI** | Jarvix: offline voice assistant with Llama 3.2, TTS/STT, persistent FileRAG memory — zero cloud dependency |
+
+</div>
+
+---
+
+## 💼 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
+|:---|:---|:---:|:---:|
+| B.Tech — Artificial Intelligence & Machine Learning | Sri Shakthi Institute of Engineering and Technology, Coimbatore | 2024 – 2028 | 7.8 / 10.0 CGPA |
+
+</div>
+
+---
+
+## 🧱 Currently Learning
+
+```
+🔗 Advanced LangGraph  →  Complex multi-agent state machines, conditional edges, human-in-the-loop flows
+📦 MLOps Pipelines     →  Model versioning, CI/CD for ML, monitoring in production
+🌐 Distributed Systems →  Message queues, event-driven architecture, scalable AI backends
+🧬 Memory Architectures →  Beyond FileRAG: graph-based memory, episodic + semantic stores
+🛡️ Secure AI Systems   →  JWT hardening, rate limiting, sandboxed agent execution
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something That Remembers
+
+*"Most AI forgets. I build the ones that don't."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's+Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharanidharan-j-7757a9321/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Read+My+Blog-38bdae?style=flat-square&logo=firefox&logoColor=white)](https://dharanidharanj.me)
+[![Email](https://img.shields.io/badge/Email-dharanidh777%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dharanidh777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dharanidh75-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dharanidh75)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
