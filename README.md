@@ -159,7 +159,7 @@ class Dharanidharan:
 
 | 🗂️ Project | ⚙️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**FileRAG**](https://dharanidharanj.me) — Novel AI Memory Architecture | `Python` `BM25` `Semantic Search` `Vector DB` `Linux` | **100% retrieval accuracy** at 500 turns vs 0% for all baselines · **99.6% memory reduction** (18 KB vs 4,338 KB at 1K turns) · 3-layer reliability: topic-drift distillation, 92% deduplication, SIGINT handlers |
+| [**FileRAG**](https://dev.to/dharanidh75/the-txt-file-as-the-soul-of-a-personal-ai-filerag-memory-architecture-k71) — Novel AI Memory Architecture | `Python` `BM25` `Semantic Search` `Vector DB` `Linux` | **100% retrieval accuracy** at 500 turns vs 0% for all baselines · **99.6% memory reduction** (18 KB vs 4,338 KB at 1K turns) · 3-layer reliability: topic-drift distillation, 92% deduplication, SIGINT handlers |
 | [**SIA**](https://github.com/dharanidh75/SIA) — Adaptive Learning Platform | `LangGraph` `FastAPI` `React` `NVIDIA NIM` `ChromaDB` `Redis` `MySQL` `SSE` | 3-agent state machine (Researcher, Tutor, Developer) with independent token budgets · NVIDIA NIM optimized inference · Real-time SSE streaming + live industry news feed |
 | [**ResHub**](https://reshub-seven.vercel.app) — Agentic Research Workspace | `FastAPI` `React 18` `LangGraph` `LangChain` `MySQL` `Docker` `JWT` | 5-agent orchestration + dual-path intent classifier (keyword fast-path + LLM fallback) · Per-folder isolated vector stores · 10+ REST endpoints, JWT auth, Docker Compose — production live |
 | [**TeamCodeX**](https://github.com/dharanidh75) — Collaborative Dev Platform | `React.js` `FastAPI` `MySQL` `Python` | Role-based access control + TL task assignment · Interactive graph analytics dashboards · Project-scoped task boards & roadmap management |
