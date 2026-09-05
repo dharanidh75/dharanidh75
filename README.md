@@ -161,6 +161,9 @@ class Dharanidharan:
   <a href="https://leetcode.com/dharanidh75/">
     <img src="https://leetcard.jacoblin.cool/dharanidh75?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&border_radius=10" alt="LeetCode Stats"/>
   </a>
+  <a href="https://wakatime.com/@dharanidh75">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dharanidh75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10" alt="WakaTime Stats"/>
+  </a>
 </div>
 
 ---
@@ -229,6 +232,15 @@ class Dharanidharan:
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+* [Setting up Blog Post Workflow...](https://github.com/gautamkrishnar/blog-post-workflow)
+* Waiting for GitHub Actions to fetch latest articles from dharanidharanj.me
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🎓 Education
 
 <div align="center">
@@ -250,6 +262,26 @@ class Dharanidharan:
   Memory Architectures →  Graph-based memory, episodic + semantic hybrid stores
   Secure AI Systems    →  JWT hardening, rate limiting, sandboxed agent execution
 ```
+
+---
+
+## 🎧 Spotify Now Playing & Fun
+
+<div align="center">
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <!-- Replace 'v4sf1b2tku4xnr955cxvxapjr' with your actual Spotify UID if you ever change accounts -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=v4sf1b2tku4xnr955cxvxapjr&cover_image=true&theme=novathem" alt="Spotify Now Playing" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ABSphreak/readme-jokes">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+</a>
+
+</div>
 
 ---
 
