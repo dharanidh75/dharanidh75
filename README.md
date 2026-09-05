@@ -59,6 +59,18 @@ class Dharanidharan:
     fun_fact = """Built FileRAG: a memory layer that hit 100% retrieval accuracy
     at 500 turns — where Redis & Dict baselines collapsed to 0%."""
 
+    agency = {
+        "name": "Arcvex",
+        "role": "Founder",
+        "website": "https://arcvex.in",
+        "services": [
+            "Websites", 
+            "Mobile Apps", 
+            "Custom Software", 
+            "AI Chatbots & Agents"
+        ]
+    }
+
     def motto(self):
         return "Engineer memory. Eliminate amnesia. Build AI that endures."
 ```
@@ -108,7 +120,29 @@ class Dharanidharan:
 
 ---
 
-## 📊 GitHub Stats
+## 🏢 Arcvex Agency
+
+<div align="center">
+
+<a href="https://arcvex.in">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,22&height=150&section=header&text=Arcvex&fontSize=38&fontColor=fff&animation=twinkling&desc=Freelancing%20Agency%20|%20Web,%20App,%20Software,%20AI%20Chatbots&descSize=16&descAlignY=70" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://arcvex.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=🚀+Founder+%26+Lead+Developer;Building+Websites,+Apps,+and+Software;Specialized+in+AI+Chatbots;Turning+Ideas+into+Production-Ready+Code" alt="Arcvex Agency" />
+</a>
+
+<br/>
+
+[![Arcvex](https://img.shields.io/badge/Visit_Arcvex.in-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDAE&labelColor=0D1117)](https://arcvex.in)
+
+</div>
+
+---
+
+## 📊 GitHub & Coding Stats
 
 <div align="center">
 
@@ -119,6 +153,14 @@ class Dharanidharan:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharanidh75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://leetcode.com/dharanidh75/">
+    <img src="https://leetcard.jacoblin.cool/dharanidh75?theme=tokyonight&font=Fira%20Code&ext=activity&hide_border=true&border_radius=10" alt="LeetCode Stats"/>
+  </a>
 </div>
 
 ---
