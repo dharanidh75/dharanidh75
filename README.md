@@ -235,8 +235,7 @@ class Dharanidharan:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-* [Setting up Blog Post Workflow...](https://github.com/gautamkrishnar/blog-post-workflow)
-* Waiting for GitHub Actions to fetch latest articles from dharanidharanj.me
+- [The .txt File as the Soul of a Personal AI — FileRAG Memory Architecture](https://dev.to/dharanidh75/the-txt-file-as-the-soul-of-a-personal-ai-filerag-memory-architecture-k71)
 <!-- BLOG-POST-LIST:END -->
 
 ---
